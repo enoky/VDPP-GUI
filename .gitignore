@@ -2,6 +2,7 @@ settings.json
 experiment_tracking.json
 
 .venv/
+checkpoints/
 
 *.pyc
 *.pth
