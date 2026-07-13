@@ -1,6 +1,8 @@
 settings.json
 experiment_tracking.json
 
+.venv/
+
 *.pyc
 *.pth
 *.so
